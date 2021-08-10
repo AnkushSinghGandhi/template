@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/header.jpg)](https://ankushsinghgandhi.github.io)
+[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/Header.jpg)](https://ankushsinghgandhi.github.io)
 <p align="center">
   <a href="https://ankushsinghgandhi.github.io">
     <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
@@ -27,12 +27,5 @@
 </p>
 
 
-## The sharing of the PPT and Project Report costs ₹1000 ($14)
-If interested :email: ankushsinghgandhi@gmail.com
+[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/Footer.jpg)](https://www.buymeacoffee.com/ankushsingh)
 
-## :point_down: Support me here!
-<a href="https://www.buymeacoffee.com/ankushsingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-#
-
-### Show some ❤️ by starring some of the repositories!
